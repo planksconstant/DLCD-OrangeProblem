@@ -1,0 +1,3 @@
+*.vcd
+tb_traffic_light_sim
+.DS_Store
